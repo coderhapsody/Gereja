@@ -1,0 +1,15 @@
+=======================================================================
+		Pusat Informasi PAK Univ. Bina Nusantara
+  			    VERSION HISTORY
+=======================================================================
+(C)Paulus Iman, November 2004-Januari 2005
+Created exclusively for PAK Univ. Bina Nusantara
+PAK Binus Multimedia Team
+
+
+Version 1.0
+  Release awal
+	
+Version 1.01
+  o Perbaikan untuk error pada saat prompt di laporan 
+    daftar pembicara jika sort ordernya menggunakan nomor arsip.
